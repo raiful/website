@@ -1,7 +1,7 @@
 ---
 title: Raiful Hasan
 role: Ph.D. Student, Computer Science
-avatar_filename: headshot_small.png
+avatar_filename: headshot_small_raiful.jpg
 bio: ""
 interests:
   - Mobile and Wearable Computing
