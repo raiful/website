@@ -33,7 +33,10 @@ organizations:
   - name: University of Alabama at Birmingham
     url: https://www.uab.edu/home/
 education:
-  courses: []
+  courses:
+    - course: Ph.D. in Computer Science
+      institution: University of Alabama at Birmingham
+      year: 2022
 email: ""
 superuser: true
 highlight_name: false
