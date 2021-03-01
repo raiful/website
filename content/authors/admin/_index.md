@@ -23,6 +23,12 @@ social:
     icon_pack: ai
     icon: google-scholar
     label: Google Scholar
+  - display:
+      header: true
+    link: https://github.com/raiful
+    icon_pack: fab
+    icon: github
+    label: Github
 organizations:
   - name: University of Alabama at Birmingham
     url: https://www.uab.edu/home/
