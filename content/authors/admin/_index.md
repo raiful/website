@@ -13,16 +13,16 @@ interests:
 social:
   - display:
       header: true
-    link: https://scholar.google.com/citations?hl=en&user=bnfKnzMAAAAJ
-    icon_pack: ai
-    icon: google-scholar
-    label: Google Scholar
-  - display:
-      header: true
     link: https://www.linkedin.com/in/hasanraiful/
     icon_pack: fab
     icon: linkedin
     label: Linkedin
+  - display:
+      header: true
+    link: https://scholar.google.com/citations?hl=en&user=bnfKnzMAAAAJ
+    icon_pack: ai
+    icon: google-scholar
+    label: Google Scholar
 organizations:
   - name: University of Alabama at Birmingham
     url: https://www.uab.edu/home/
