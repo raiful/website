@@ -1,6 +1,6 @@
 ---
 title: Raiful Hasan
-role: Ph.D. Student \\ Computer Science
+role: Ph.D. Student
 avatar_filename: headshot_small.jpg
 bio: ""
 interests:
@@ -30,6 +30,8 @@ social:
     icon: github
     label: Github
 organizations:
+  - name: Computer Science
+    url: https://www.uab.edu/cas/computerscience/
   - name: University of Alabama at Birmingham
     url: https://www.uab.edu/home/
 education:
