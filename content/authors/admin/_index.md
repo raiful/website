@@ -1,6 +1,6 @@
 ---
 title: Raiful Hasan
-role: Ph.D. Student, Computer Science
+role: Ph.D. Student \\ Computer Science
 avatar_filename: headshot_small.jpg
 bio: ""
 interests:
