@@ -12,19 +12,19 @@ interests:
   - Machine Learning
 social:
   - display:
-      header: true
+      header: false
     link: https://www.linkedin.com/in/hasanraiful/
     icon_pack: fab
     icon: linkedin
     label: Linkedin
   - display:
-      header: true
+      header: false
     link: https://scholar.google.com/citations?hl=en&user=bnfKnzMAAAAJ
     icon_pack: ai
     icon: google-scholar
     label: Google Scholar
   - display:
-      header: true
+      header: false
     link: https://github.com/raiful
     icon_pack: fab
     icon: github
