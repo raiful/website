@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Raiful Hasan
+role: Ph.D. Student, University of Alabama at Birmingham
 avatar_filename: headshot-copy.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
