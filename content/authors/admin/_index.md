@@ -10,7 +10,13 @@ interests:
   - Pattern Recognition
   - Biometric Information
   - Machine Learning
-social: []
+social:
+  - display:
+      header: true
+    link: https://www.linkedin.com/in/hasanraiful/
+    icon_pack: fab
+    icon: linkedin
+    label: Linkedin
 organizations:
   - name: University of Alabama at Birmingham
     url: https://www.uab.edu/home/
