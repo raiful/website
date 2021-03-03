@@ -9,7 +9,7 @@ experience:
     location: Birmingham, Alabama, USA
     date_start: 2019-01-01
     date_end: ""
-    description: |-2
+    description: |-3
         Responsibilities include:
         
         * Research on pedestrian safety or specifically distracted pedestrian safety. 
@@ -21,7 +21,7 @@ experience:
     location: Mississippi, USA
     date_start: 2018-01-01
     date_end: 2018-12-31
-    description: |-2
+    description: |-3
         Responsibilities include:
         
         * Worked as a Programming Laboratory Instructor for the Computer Science program.
@@ -33,7 +33,7 @@ experience:
     location: Dhaka, Bangladesh
     date_start: 2012-09-01
     date_end: 2017-12-31
-    description: |-2
+    description: |-3
         Responsibilities include:
         
         * Designed and developed multiple mobile applications, prepared project plans according to deadlines. 
