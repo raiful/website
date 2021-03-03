@@ -26,6 +26,17 @@ experience:
         
         * Worked as a Programming Laboratory Instructor for the Computer Science program.
         * Participated in designing materials for the Object-Oriented Programming course.
+
+ - title: Software Engineer
+    company: Divine IT Limited
+    company_url: "https://www.divineit.net"
+    location: Dhaka, Bangladesh
+    date_start: 2012-09-01
+    date_end: 2017-12-31
+    description: |-2
+        Responsibilities include:
+        
+        * Designed and developed multiple mobile applications, prepared project plans according to deadlines. 
     
 widget_id: Experience
 headless: true
