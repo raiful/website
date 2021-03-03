@@ -12,9 +12,9 @@ experience:
     description: |-2
         Responsibilities include:
         
-        * - Research on pedestrian safety or specifically distracted pedestrian safety. 
-        * - Design and develop an effective warning system for smartphone zombies. 
-        * - Design and develop real-time location tracking, trajectory prediction, and prevention of pedestrian/drivers and hazard zone.
+        * Research on pedestrian safety or specifically distracted pedestrian safety. 
+        * Design and develop an effective warning system for smartphone zombies. 
+        * Design and develop real-time location tracking, trajectory prediction, and prevention of pedestrian/drivers and hazard zone.
   - title: Graduate Teaching Assistant
     company: Computer Science, University of Southern Mississippi
     company_url: ""
