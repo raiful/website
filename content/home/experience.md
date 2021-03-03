@@ -3,11 +3,11 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Teaching Assistant
+    company: University of Alabama at Birmingham
     company_url: ""
-    location: California
-    date_start: 2017-01-01
+    location: Alabama, USA
+    date_start: 2019-01-08
     date_end: ""
     description: |-2
         Responsibilities include:
