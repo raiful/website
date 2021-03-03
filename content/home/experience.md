@@ -5,7 +5,7 @@ date_format: Jan 2006
 experience:
   - title: Graduate Research and Teaching Assistant
     company: UAB Secure & Trustworthy Computing Lab (SECRETLab), University of Alabama at Birmingham
-    company_url: ""
+    company_url: "https://www.uab.edu/cas/computerscience/research/research-labs/secretlab"
     location: Birmingham, Alabama, USA
     date_start: 2019-01-01
     date_end: ""
@@ -17,11 +17,15 @@ experience:
         * Design and develop real-time location tracking, trajectory prediction, and prevention of pedestrian/drivers and hazard zone.
   - title: Graduate Teaching Assistant
     company: Computer Science, University of Southern Mississippi
-    company_url: ""
-    location: California
+    company_url: "https://www.usm.edu/computing-sciences-computer-engineering/index.php"
+    location: Mississippi, USA
     date_start: 2018-01-01
     date_end: 2018-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |-2
+        Responsibilities include:
+        
+        * Worked as a Programming Laboratory Instructor for the Computer Science program.
+        * Participated in designing materials for the Object-Oriented Programming course.
     
 widget_id: Experience
 headless: true
