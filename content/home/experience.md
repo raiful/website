@@ -3,18 +3,18 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Graduate Teaching Assistant
+  - title: Graduate Research and Teaching Assistant
     company: University of Alabama at Birmingham
     company_url: ""
-    location: Alabama, USA
+    location: Birmingham, Alabama, USA
     date_start: 2019-01-08
     date_end: ""
     description: |-2
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * - Research on pedestrian safety or specifically distracted pedestrian safety. 
+        * - Design and develop an effective warning system for smartphone zombies. 
+        * - Design and develop real-time location tracking, trajectory prediction, and prevention of pedestrian/drivers and hazard zone.
   - title: Professor
     company: University X
     company_url: ""
