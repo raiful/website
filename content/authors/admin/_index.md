@@ -39,9 +39,9 @@ education:
     - course: Ph.D. in Computer Science
       institution: (2022 - Expected), University of Alabama at Birmingham
       year: ""
-    - course: B.S. in Computer Science and Engineering
-      institution: University of Dhaka
-      year: 2012
+    - course: BS in Computer Science and Engineering
+      institution: June 2012, University of Dhaka
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
