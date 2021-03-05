@@ -38,7 +38,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Alabama at Birmingham
-      year: 2022
+      year: ""
     - course: BS in Computer Science and Engineering
       institution: University of Dhaka
       year: 2012
