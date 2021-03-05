@@ -37,11 +37,11 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Computer Science
-      institution: (2022 - Expected), University of Alabama at Birmingham
-      year: ""
+      institution: University of Alabama at Birmingham
+      year: 2022
     - course: BS in Computer Science and Engineering
-      institution: June 2012, University of Dhaka
-      year: ""
+      institution: University of Dhaka
+      year: 2012
 email: ""
 superuser: true
 highlight_name: false
